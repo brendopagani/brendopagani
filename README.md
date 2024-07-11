@@ -1,4 +1,4 @@
-# E ae, Brendo Pagani aqui :)
+# E ai, Brendo Pagani aqui :)
 
 Futuro Cientista de Dados e apaixonado por ficção cientifica. Já trabalhei com vendas, ensino de artes marciais, finanças, administração, gerenciamento de equipes, contabilidade e por ai vai.
 
