@@ -1,5 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+# E ae, Brendo Pagani aqui :)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi!+My+name+is+Brendo+Miranda+Pagani;I'm+from+Brazil;Data+Scientist;Be+Welcome!)](https://git.io/typing-svg)
+Futuro Cientista de Dados e apaixonado por ficção cientifica. Já trabalhei com vendas, ensino de artes marciais, finanças, administração, gerenciamento de equipes, contabilidade e por ai vai.
 
- ### Main skills: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
+🧙‍♂️ **Estudando** para me tornar o *grande mestre dos magos* em **Ciências de Dados.**
+
+🍃 Apaixonado por paisagens naturais e a liberdade que ela nos proporciona.
+
+💻 Atualmente estou mais focado em:
+
+<img widht='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />  <img widht='50' height='50' src="https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117" />  <img widht='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
+          
