@@ -4,7 +4,7 @@ Futuro Cientista de Dados e apaixonado por ficção cientifica. Já trabalhei co
 
 🧙‍♂️ **Estudando** para me tornar o *grande mestre dos magos* em **Ciências de Dados.**
 
-🍃 Apaixonado por paisagens naturais e a liberdade que ela nos proporciona.
+⚙️ Apaixonado por dados e o processo de transformação de dados em informações.
 
 💻 Atualmente estou mais focado em:
 
