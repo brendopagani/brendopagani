@@ -14,7 +14,7 @@ Futuro Cientista de Dados e apaixonado por ficção cientifica. Já trabalhei co
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brendopagani&theme=transparent&bg_color=171515&border_color=301DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide=stars)
 
 ## Minhas Contribuições
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=brendopagani&repo=dio-lab-open-source&bg_color=171515&border_color=301DC&show_icons=true&icon_color=30A3DC&title_color=FFF&text_color=FFF)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=brendopagani&repo=dio-lab-open-source&bg_color=171515&border_color=301DC&show_icons=true&icon_color=30A3DC&title_color=FFF&text_color=FFF)](https://github.com/brendopagani/dio-lab-open-source)
 
 
 
